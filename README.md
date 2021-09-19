@@ -1,4 +1,4 @@
-### Hi there, I'm Ali - aka [Astro][website] 👋
+## Hi there, I'm Ali - aka [Astro][website] 👋
 
 ## I'm a Software developer, GDSC supervisor and CE student.
 
