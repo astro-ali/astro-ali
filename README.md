@@ -1,6 +1,6 @@
 ### Hi there, I'm Ali - aka [Astro][website] 👋
 
-## I'm a Software developer, GDSC supervisor and CE student at UOT
+## I'm a Software developer, GDSC supervisor and CE student.
 
 ### About Me
 
