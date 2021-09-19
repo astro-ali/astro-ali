@@ -47,7 +47,6 @@ I was never the best at school or in any kind of educational system, I'm just a 
 - [The video that got me into Programming](https://www.youtube.com/watch?v=nKIu9yen5nc)
 - [JavaScript: Understanding the Weird Parts](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts)
 - [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
-- [Understanding React's UI Rendering Process](https://www.youtube.com/watch?v=i793Qm6kv3U)
 - [10 React Hooks Explained](https://www.youtube.com/watch?v=TNhaISOUy6Q)
 - [5 Reasons I Use Next.js Over Plain React](https://www.youtube.com/watch?v=6jWWKczzGM0)
 - [Teach a Dog to REST](https://www.youtube.com/watch?v=PgrP6r-cFUQ&t=278s)
