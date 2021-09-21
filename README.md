@@ -34,6 +34,7 @@ I was never the best at school or in any kind of educational system, I'm just a 
 <img align="left" alt="TypeORM" width="26px" src="https://img.stackshare.io/service/7419/20165699.png" />
 <img align="left" alt="Python" width="26px" src="https://i.ibb.co/pRTP7M9/python-logo.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="C" width="26px" src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
