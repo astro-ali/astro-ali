@@ -29,7 +29,7 @@ I was never the best at school or in any kind of educational system, I'm just a 
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
-<img align="left" alt="Node.js" width="26px" src="https://spng.pngfind.com/pngs/s/683-6833893_node-js-logo-png-transparent-png.png" />
+<img align="left" alt="Node.js" width="26px" src="https://www.pngitem.com/pimgs/m/288-2880547_node-node-js-hd-png-download.png" />
 <img align="left" alt="postgresql" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
 <img align="left" alt="TypeORM" width="26px" src="https://img.stackshare.io/service/7419/20165699.png" />
 <img align="left" alt="Python" width="26px" src="https://i.ibb.co/pRTP7M9/python-logo.png" />
