@@ -33,7 +33,7 @@ I was never the best at school or in any kind of educational system, I'm just a 
 <img align="left" alt="postgresql" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
 <img align="left" alt="TypeORM" width="26px" src="https://img.stackshare.io/service/7419/20165699.png" />
 <img align="left" alt="TypeORM" width="26px" src="https://img.stackshare.io/service/7419/20165699.png" />
-<img align="left" alt="Redis" width="26px" src="http://assets.stickpng.com/images/584830b5cef1014c0b5e4a9c.png" />
+<img align="left" alt="Redis" width="26px" src="https://static.cdnlogo.com/logos/r/3/redis.svg" />
 <img align="left" alt="Python" width="26px" src="https://i.ibb.co/pRTP7M9/python-logo.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
