@@ -2,10 +2,6 @@
 
 ### I'm a Javascript developer, GDSC organizer & computer engineering student
 
-### About Me
-
-I was never the best at school or in any kind of educational system, I'm just a super curious guy who loves to question everything and wonder, I have a great interest in Science and technology, Especially engineering like Software Development and Electrical Engineering, I love to code So when I was 16, I started to teach myself more about coding and software engineering, I started with C and now I have much bigger Experience and skills in programming like react and node.js, My goal now is to become A Full-Stack Web Developer and I hope I will reach that goal in the next year, If you are interested in my projects or just want to contact me for commercial purposes, Contact Me through my contact information.
-
 ---
 
 [![Ali Hameed's github stats](https://github-readme-stats.vercel.app/api?username=astro-ali&count_private=true&show_icons=true&theme=react)](https://github.com/astro-ali)
@@ -49,7 +45,6 @@ I was never the best at school or in any kind of educational system, I'm just a 
 - [The video that got me into Programming](https://www.youtube.com/watch?v=nKIu9yen5nc)
 - [JavaScript: Understanding the Weird Parts](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts)
 - [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
-- [5 Reasons I Use Next.js Over Plain React](https://www.youtube.com/watch?v=6jWWKczzGM0)
 - [Teach a Dog to REST](https://www.youtube.com/watch?v=PgrP6r-cFUQ&t=278s)
 - [Writing a Program that Edits my Videos](https://www.youtube.com/watch?v=0ZeO0IQaJ-A)
 <!-- YOUTUBE:END -->
