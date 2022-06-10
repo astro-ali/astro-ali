@@ -1,4 +1,4 @@
-### Hi there, I'm Ali - aka [Astro][website] 👋
+### Hi there, I'm Ali
 
 ### I'm a Javascript developer, GDSC organizer & computer engineering student
 
