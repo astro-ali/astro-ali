@@ -1,6 +1,6 @@
 ### Hi there, I'm Ali
 
-### I'm a Javascript developer, GDSC organizer & computer engineering student
+### I'm a Javascript developer & Computer Engineering Student.
 
 ---
 
