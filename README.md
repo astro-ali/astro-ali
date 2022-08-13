@@ -25,7 +25,7 @@
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
-<img align="left" alt="Node.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" />
+<img align="left" alt="Node.js" width="26px" src="https://www.the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png" />
 <img align="left" alt="postgresql" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
 <img align="left" alt="TypeORM" width="26px" src="https://img.stackshare.io/service/7419/20165699.png" />
 <img align="left" alt="Redis" width="26px" src="https://static.cdnlogo.com/logos/r/3/redis.svg" />
