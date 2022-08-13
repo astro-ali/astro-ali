@@ -1,6 +1,6 @@
 ### Hi there, I'm Ali
 
-### I'm a Javascript developer & Computer Engineering Student.
+### I'm a Javascript & Web Application Developer & Computer Engineering Student.
 
 ---
 
