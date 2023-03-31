@@ -4,8 +4,6 @@
 
 ---
 
-[![Ali Hameed's github stats](https://github-readme-stats.vercel.app/api?username=astro-ali&count_private=true&show_icons=true&theme=react)](https://github.com/astro-ali)
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
